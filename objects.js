@@ -1,3 +1,3 @@
 var playlist ={
-  artistName ='song title'
+  artistName :'song title'
 }
