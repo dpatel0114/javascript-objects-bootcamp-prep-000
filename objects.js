@@ -1,1 +1,3 @@
-Object.assign({}, playlist, {artist, song})
+function define (Obj, key, value){ 
+  return Object.assign({}, obj,[key]:value)
+}
